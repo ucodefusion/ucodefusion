@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udeshika</h1>
-<h3 align="center">A passionate CTO at codefusion singapore</h3>
+<h3 align="center">CTO at codefusion singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ucodefusion&label=Profile%20views&color=0e75b6&style=flat" alt="ucodefusion" /> </p>
 
